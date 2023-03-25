@@ -1,0 +1,8 @@
+---
+title: "Syllabus"
+author: "Ke Nie"
+date: '2023-03-24'
+output: html_document
+---
+
+The syllabus of the course can be found [here](/files/SOCI103M_syllabus_20230109.pdf).
