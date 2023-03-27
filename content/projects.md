@@ -27,7 +27,7 @@ Advaith Prakash & Janet Salado-Ledesma - [What is the influence of parents’ in
 
 Christian Johnson, Isa Vidanes - [Is listening to music an effective form of dealing with mental health issues?](/files/Johnson_Vidanes.html)
 
-<!-- Cade Pretorius, Elaina Santos -->
+Elaina Santos & Cade Pretorius - [How does the regulation of public discussion forums impact the exercise of free expression?](/files/Santos_Pretorius.html)
 
 
 
